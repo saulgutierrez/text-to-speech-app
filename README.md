@@ -8,3 +8,5 @@ Technologies used:
 <li>CSS</li>
 <li>Javascript</li>
 <li>Google Fonts</li>
+
+![image](https://github.com/saulgutierrez/text-to-speech-app/assets/62368834/ccef26bb-3a2a-4e02-bd5a-ee9d757dd4b6)
